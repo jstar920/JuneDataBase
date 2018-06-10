@@ -1,0 +1,9 @@
+!./build
+./build/*
+QtProject/build*
+*.user
+*.swp
+sourseCode/dynamic_lib/ssh
+*.autosave
+*.pump
+*Trace.log
